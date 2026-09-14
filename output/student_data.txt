@@ -1,0 +1,4 @@
+Python and Bash Assignment
+Student Name: Mohd Imran
+Topic: File Handling
+This file was created using Python.
